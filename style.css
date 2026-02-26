@@ -36,8 +36,9 @@ body {
 }
 
 .subtitle {
-    margin-top: 8px;
-    font-weight: 400;
+    margin-top: 18px;      /* делаем пониже */
+    font-size: 20px;       /* делаем больше */
+    font-weight: 600;      /* чуть более заметный */
     color: #6a6a6a;
 }
 
